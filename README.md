@@ -1,2 +1,2 @@
 # Tech-Academy-Projects
-Repository for my Tech Academy Peojects 
+Repository for my Tech Academy Projects
